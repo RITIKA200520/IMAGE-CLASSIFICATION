@@ -4,7 +4,7 @@ I have done this project to classify images by using CNNmodel and Pre Trained Mo
 
 
 ## How to rum the code
-
+http://localhost:8501/
 
 
 ### Ack
